@@ -12,5 +12,7 @@ public class Test {
         this.name = name;
     }
 
-
+    public void test(){
+        System.out.print("git test");
+    }
 }
